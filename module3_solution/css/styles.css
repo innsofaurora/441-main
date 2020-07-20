@@ -1,0 +1,20 @@
+body{
+	font-size: 16px;
+  	color: black;
+  	font-family: 'Oxygen', sans-serif;
+}
+h3{
+	text-align: center;
+}
+.menu-item
+{
+	color: black;
+	background-color: grey;
+}
+/** HEADER **/
+#header-nav {
+	color: black;
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
